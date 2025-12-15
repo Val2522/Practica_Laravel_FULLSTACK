@@ -218,7 +218,7 @@ El proyecto implementa:
 
 ## 👤 Autor
 
-**Valentina** - Práctica de Full Stack Development
+**Alvaro** - Práctica de Full Stack Development
 
 ## 📄 Licencia
 
